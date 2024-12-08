@@ -1,5 +1,5 @@
 # Instrucciones
-Descarga en Code/Donwload Zip
+Descarga en Code/Download Zip
 
 # Links
 ### Descargar [ArduinoIDE](https://www.arduino.cc/en/software)
@@ -8,3 +8,4 @@ Descarga en Code/Donwload Zip
 > `https://dl.espressif.com/dl/package_esp32_index.json`
 
 ### Driver [CP210x](https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers)
+
