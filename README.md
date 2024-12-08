@@ -1,6 +1,8 @@
 # Instrucciones
 Descarga en Code/Download ZIP
 
+En la carpeta Recursos encontraras PDFs sobre teoría de las placas Arduino Uno y ESP3
+
 # Links
 ### Descargar [ArduinoIDE](https://www.arduino.cc/en/software)
 ### Link de las placas
