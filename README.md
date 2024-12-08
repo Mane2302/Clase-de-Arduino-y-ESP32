@@ -3,6 +3,8 @@ Descarga en Code/Download ZIP
 
 En la carpeta Recursos encontraras PDFs sobre teoría de las placas Arduino Uno y ESP32
 
+### Como instalar Arduino IDE [Clic Aquí](https://www.youtube.com/watch?v=pyTaaM34EBc)
+
 # Links
 ### Descargar [ArduinoIDE](https://www.arduino.cc/en/software)
 ### Link de las placas
