@@ -1,5 +1,5 @@
 # Instrucciones
-Descarga en Code/Download Zip
+Descarga en Code/Download ZIP
 
 # Links
 ### Descargar [ArduinoIDE](https://www.arduino.cc/en/software)
