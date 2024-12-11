@@ -2,13 +2,13 @@
 
 Servo miservo;			// crea objeto
 
-int PINSERVO = 12;		// pin 2 conectado a señal del servo
+int PINSERVO = 12;		// pin 12 de la ESP32 conectado a señal del servo
 int PULSOMIN = 500;		// pulso minimo en microsegundos
 int PULSOMAX = 2500;		// pulso maximo en microsegundos
 int VALORPOT;			// variable para almacenar valor leido en entrada A0
 int ANGULO;			// valor de angulo a cargar en el servo
 
-int POT = 35;			// potenciometro en entrada analogica A0
+int POT = 35;			// potenciometro en entrada analogica 35
 
 void setup()
 {
