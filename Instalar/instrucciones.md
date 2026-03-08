@@ -2,8 +2,7 @@
 
 Visita la página: https://www.arduino.cc/en/software/
 
-
-
-![Descripción de la imagen](/Instalar/img/pagina_ide.png)
+> Elige tu sistema operativo y descarga
+![Página de Arduino IDE](/Instalar/img/pagina_ide.png)
 
 
