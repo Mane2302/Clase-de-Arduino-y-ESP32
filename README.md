@@ -30,3 +30,27 @@
 https://dl.espressif.com/dl/package_esp32_index.json
 ```
 ![Página de Arduino IDE](/Instalar/img/prefere.png)
+
+---
+## Paso 2: Instalar las placas ESP32
+
+1. Ve a:  
+   **Herramientas → Placa → Gestor de placas**
+2. Busca: `ESP32`
+3. Instala el paquete de **Espressif Systems**.
+
+![Página de Arduino IDE](/Instalar/img/placa.png)
+---
+
+## Paso 3: Instalar drivers (si es necesario)
+
+Instala ambos drivers si tu placa no se reconoce en tu pc (Windows):
+
+- [CP210](https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers)
+- [CH340](https://sparks.gogo.co.nz/ch340.html)
+
+---
+
+**Si todo se instaló bien, podrás utilizar las placas Arduino y ESP32 sin problemas.**
+
+> Recuerda que la ESP32 aveces necesita de librerias para que algunos componentes funcionen.
