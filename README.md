@@ -16,7 +16,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 ```
 ### Pega el enlace de arriba en URLs adicionales y aceptar
 
-![](/Instalar/img/prefere.png)
+![URLs](/Instalar/img/prefere.png)
 
 > **Herramientas ⇢ Placa ⇢ Gestor de placas**
 
