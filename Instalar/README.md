@@ -1,4 +1,5 @@
-# Descargar Arduino IDE
+# Guía de instalación
+> En este MD encontrarias las isntrucciones necesarias para poder usar las placas **Arduino** y **ESP32**
 
 ## Link: [ArduinoIDE](https://www.arduino.cc/en/software)
 
