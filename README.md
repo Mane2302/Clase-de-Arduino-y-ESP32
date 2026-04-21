@@ -36,7 +36,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 1. Ve a:  
    **Herramientas → Placa → Gestor de placas**
-2. Busca: `ESP32`
+2. Busca: `esp32`
 3. Instala el paquete de **Espressif Systems**.
 
 ![Página de Arduino IDE](/Instalar/img/placa.png)
