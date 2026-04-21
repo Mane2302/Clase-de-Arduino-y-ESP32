@@ -54,3 +54,10 @@ Instala ambos drivers si tu placa no se reconoce en tu pc (Windows):
 **Si todo se instaló bien, podrás utilizar las placas Arduino y ESP32 sin problemas.**
 
 > Recuerda que la ESP32 aveces necesita de librerias para que algunos componentes funcionen.
+
+# Intalar Librerias
+
+1. Ve a:  
+   **Sketch → Incluir Biblioteca → Añadir Bliblioteca .ZIP**
+2. Busca el .ZIP de la libreria
+3. Abre e instala la librería
