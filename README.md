@@ -56,7 +56,7 @@ Instala ambos drivers si tu placa no se reconoce en tu pc (Windows):
 > [!IMPORTANT] 
 > Recuerda que la ESP32 aveces necesita de librerias para que algunos componentes funcionen.
 
-# Intalar Librerías
+# Instalar Librerías
 
 1. Ve a:  
    **Sketch → Incluir Biblioteca → Añadir Bliblioteca .ZIP**
