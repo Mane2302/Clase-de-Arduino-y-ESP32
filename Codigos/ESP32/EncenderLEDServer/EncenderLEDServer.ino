@@ -4,6 +4,7 @@
  //VARIABLES
 int LEDR = 14; //LED rojo en pin DGPIO 14
 WebServer server(80); // Servidor web en puerto 80 (HTTP)
+//ip: 192.168.4.1
 
 
 //PÁGINA WEB
